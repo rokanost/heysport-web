@@ -1,1 +1,15 @@
 /*! Place your custom styles here */
+@font-face {
+  font-family: Bomber;
+  src: url(../fonts/BomberEscortOutlineItalic-OVAW8.otf) format('opentype');
+}
+
+@font-face {
+  font-family: Bomber;
+  font-style: italic;
+  src: url(../fonts/BomberEscortSuperItalic-3za3G.otf) format('opentype');
+}
+
+.bomber {
+  font-family: Bomber;
+}
